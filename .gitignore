@@ -1,0 +1,26 @@
+# Dependencias instaladas por npm
+/node_modules
+
+# Dependencias instaladas por yarn
+/yarn.lock
+
+# Archivo generado por npm, yarn u otras herramientas de construcción
+package-lock.json
+
+# Carpeta generada por VSCode para almacenar configuraciones
+.vscode
+
+# Archivo de registro de errores
+npm-debug.log
+
+# Carpeta generada por la herramienta de construcción
+/build
+
+# Archivos temporales
+.DS_Store
+
+# Archivos de respaldo de editor de texto
+*~
+
+# Archivos de configuración local
+.env
